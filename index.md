@@ -4,7 +4,7 @@ I am a student, currently enrolled in a Bachelor of Engineering Program in Infor
 My research interests are in Natural Language Processing, Computational Linguistics, Computer Science Pedagogy. 
 
 # Find me on
-* [Github](github.com/arjun-rao)
+* [Github](https://github.com/arjun-rao)
 * [LinkedIn](https://www.linkedin.com/in/arjunra0/)
 * [Gmail](mailto:mailarjunrao@gmail.com)
 
