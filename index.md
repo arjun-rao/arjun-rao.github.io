@@ -35,7 +35,7 @@ Github Issue Tracker is a web application hosted on Google Cloud Platform that p
 	
 	* Chapter in Applications of Cognitive Computing Systems and IBM Watson.
 	* Published by Springer, Singapore (November 2017)
-	* Co Authors: ARJUN RAO, ABHILASH K, AMISHA A, ANISHA M.  
+	* Co Authors: Abhilash Kishore, Amisha Agarwal, Anisha Mascarenhas
 
 
 * [Big Data Predictive Modeling and Analytics](https://www.crcpress.com/NoSQL-Database-for-Storage-and-Retrieval-of-Data-in-Cloud/Deka/p/book/9781498784368)
