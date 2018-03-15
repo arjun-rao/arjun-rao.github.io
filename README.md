@@ -1,3 +1,3 @@
-# Arjun's github.io Page
+# FYI this is Arjun's homepage.
 
 Feel free to look around! 
