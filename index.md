@@ -31,17 +31,20 @@ Github Issue Tracker is a web application hosted on Google Cloud Platform that p
 ---
 
 * [DearDiary - An IBM Watson Powered Mental Healthcare Tracker](https://link.springer.com/chapter/10.1007%2F978-981-10-6418-0_8)
+	
 	* Chapter in Applications of Cognitive Computing Systems and IBM Watson.
 	* Published by Springer, Singapore (November 2017)
 	* Co Authors: ARJUN RAO, ABHILASH K, AMISHA A, ANISHA M.  
 
 
 * [Big Data Predictive Modeling and Analytics](https://www.crcpress.com/NoSQL-Database-for-Storage-and-Retrieval-of-Data-in-Cloud/Deka/p/book/9781498784368)
-  	* A Book chapter for the edited book Big Data Analytics: Tools and Technology for Effective Planning. (ISBN 9781138032392). 
+	
+	* A Book chapter for the edited book Big Data Analytics: Tools and Technology for Effective Planning. (ISBN 9781138032392). 
   	* Published by CRC Press Taylor & Francis Group. (October 2017)
 	* Co Authors: Dr. Mydhili K Nair, Mipsa Patel from Ramaiah Institute of Technology
 
 * [Data Migration Techniques from SQL to NoSQL](https://www.crcpress.com/NoSQL-Database-for-Storage-and-Retrieval-of-Data-in-Cloud/Deka/p/book/9781498784368)
+  	
   	* A Book chapter for the edited book NoSQL: Database for Storage and Retrieval of data in Cloud. (ISBN
 	9781498784368).
 	* Published by CRC Press Taylor & Francis Group.  (March 2017)
