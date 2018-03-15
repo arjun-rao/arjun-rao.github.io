@@ -8,7 +8,10 @@ My research interests are in Natural Language Processing, Computational Linguist
 * [LinkedIn](https://www.linkedin.com/in/arjunra0/)
 * [Gmail](mailto:mailarjunrao@gmail.com)
 
-# [Talks](https://github.com/arjun-rao/talks)
+# Talks
+---
+
+You can find slides and code from various talks I've given [here](https://github.com/arjun-rao/talks).
 
 # Projects
 ---
