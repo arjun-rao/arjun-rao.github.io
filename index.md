@@ -1,6 +1,7 @@
 # About Me
 
-I am a student, currently enrolled in a Bachelor of Engineering Program in Information Science and Engineering at [Ramaiah Institute of Technology](http://msrit.edu/). My research interests are in Natural Language Processing, Computational Linguistics, Computer Science Pedagogy. 
+I am a student, currently enrolled in a Bachelor of Engineering Program in Information Science and Engineering at [Ramaiah Institute of Technology](http://msrit.edu/) and interning at [Stride.ai](https://stride.ai).
+My research interests are in Natural Language Processing, Computational Linguistics, Computer Science Pedagogy. 
 
 # Find me on
 * [Github](github.com/arjun-rao)
