@@ -1,2 +1,3 @@
-# arjun-rao.github.io
-GitHub Pages Repo
+# Arjun's github.io Page
+
+Feel free to look around! 
