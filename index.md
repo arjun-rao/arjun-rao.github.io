@@ -43,13 +43,13 @@ Github Issue Tracker is a web application hosted on Google Cloud Platform that p
 	* Co Authors: Abhilash Kishore, Amisha Agarwal, Anisha Mascarenhas
 
 
-* [Big Data Predictive Modeling and Analytics](https://www.crcpress.com/NoSQL-Database-for-Storage-and-Retrieval-of-Data-in-Cloud/Deka/p/book/9781498784368)
+* [Big Data Predictive Modeling and Analytics](https://www.taylorfrancis.com/books/e/9781351180320/chapters/10.1201%2Fb21822-13)
 	
 	* A Book chapter for the edited book Big Data Analytics: Tools and Technology for Effective Planning. (ISBN 9781138032392).
 	* Published by CRC Press Taylor & Francis Group. (October 2017)
 	* Co Authors: Dr. Mydhili K Nair, Mipsa Patel from Ramaiah Institute of Technology
 
-* [Data Migration Techniques from SQL to NoSQL](https://www.crcpress.com/NoSQL-Database-for-Storage-and-Retrieval-of-Data-in-Cloud/Deka/p/book/9781498784368) 	
+* [Data Migration Techniques from SQL to NoSQL](https://www.taylorfrancis.com/books/e/9781498784375/chapters/10.1201%2F9781315155579-10) 	
 	
 	* A Book chapter for the edited book NoSQL: Database for Storage and Retrieval of data in Cloud. (ISBN
 	9781498784368).
