@@ -15,15 +15,15 @@ You can find slides and code from various talks I've given [here](https://github
 
 # Projects
 ---
-## [The Milo Project](https://4and4.github.io/)
+## [The Milo Project](https://miloide.github.io/)
 
 The Milo IDE is a web based platform targetted at students who wish to learn concepts of Machine Learning and Linear Algebra, with no prior programming experience. The IDE is designed to support introductory level Data Science, ML and Linear Algebra courses typically taught at undergraduate programs.
 
-#### [Milo Server](https://github.com/4and4/MiloServer)
+#### [Milo Server](https://github.com/miloide/MiloServer)
 
 Milo Server is the main ExpressJS backend server that will be hosting the Milo IDE and the associated backend for managing interactions to the Milo Server from the IDE. 
 
-#### [Milo Blocks](https://github.com/4and4/milo-blocks)
+#### [Milo Blocks](https://github.com/miloide/milo-blocks)
 
 Milo Blocks is a fork of Google's Blockly that has been modified to work as a node-module. Milo Blocks consists of custom block implementations for the Milo IDE. 
 
