@@ -43,7 +43,7 @@ Github Issue Tracker is a web application hosted on Google Cloud Platform that p
 	* Co Authors: Abhilash Kishore, Amisha Agarwal, Anisha Mascarenhas
 
 
-* [Big Data Predictive Modeling and Analytics](https://www.taylorfrancis.com/books/e/9781351180320/chapters/10.1201%2Fb21822-13)
+* [Big Data Predictive Modeling and Analytics](https://www.taylorfrancis.com/books/e/9781351180320/chapters/10.1201%2Fb21822-6)
 	
 	* A Book chapter for the edited book Big Data Analytics: Tools and Technology for Effective Planning. (ISBN 9781138032392).
 	* Published by CRC Press Taylor & Francis Group. (October 2017)
