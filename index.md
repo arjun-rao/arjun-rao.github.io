@@ -1,7 +1,6 @@
 # About Me
 
-I am a student, currently enrolled in a Bachelor of Engineering Program in Information Science and Engineering at [Ramaiah Institute of Technology](http://msrit.edu/) and interning at [Stride.ai](https://stride.ai).
-My research interests are in Natural Language Processing, Computational Linguistics, Computer Science Pedagogy. 
+I have recently completed a Bachelor of Engineering Program in Information Science and Engineering at [Ramaiah Institute of Technology](http://msrit.edu/). I have a keen interested in Web and Mobile development, with experience of working at organisations like Google, Stride.ai, etc. My research interests include Natural Language Processing, Computational Linguistics, Human Computer Interaction, Computer Science Pedagogy. 
 
 # Find me on
 * [Github](https://github.com/arjun-rao)
@@ -36,6 +35,8 @@ Github Issue Tracker is a web application hosted on Google Cloud Platform that p
 # Writing
 ---
 
+* [Context Based Approach for Second Language Acquisition](http://www.aclweb.org/anthology/W18-0524) 
+	* System paper for Duolingo's Shared Task at the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications, (BEA18, NAACL 2018) 
 * [DearDiary - An IBM Watson Powered Mental Healthcare Tracker](https://link.springer.com/chapter/10.1007%2F978-981-10-6418-0_8)
 	
 	* Chapter in Applications of Cognitive Computing Systems and IBM Watson.
