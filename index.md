@@ -40,7 +40,7 @@ Github Issue Tracker is a web application hosted on Google Cloud Platform that p
 ## Papers
 
 ### 2018
-* **Arjun R. Rao**, Ayush Bihani and Mydhili Nair. "Milo: A visual programming environment for Data Science Education"[pdf](https://arjun.fyi/publications/milo_vlhcc18_paper.pdf)
+* **Arjun R. Rao**, Ayush Bihani and Mydhili Nair. "Milo: A visual programming environment for Data Science Education"[pdf](https://arjun.fyi/files/milo_vlhcc18_paper.pdf)
 	* Proceedings of 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'18), October 1 - 4, 2018, Lisbon, Portugal. pp. 211-215. (To appear)
 * Nihal V. Nayak and **Arjun R. Rao**. "Context based approach for second language acquisition." [pdf](http://www.aclweb.org/anthology/W18-0524)
 	* In Proceedings of the NAACL-HLT Workshop on Innovative Use of NLP for Building Educational Applications (BEA), New Orleans, USA.
