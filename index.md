@@ -17,9 +17,6 @@ My research interests include Natural Language Processing, Computational Linguis
 
 The Milo IDE is a web based platform targetted at students who wish to learn concepts of Machine Learning and Linear Algebra, with no prior programming experience. The IDE is designed to support introductory level Data Science, ML and Linear Algebra courses typically taught at undergraduate programs.
 
-#### [Milo Server](https://github.com/miloide/MiloServer)
-
-Milo Server is the main ExpressJS backend server that will be hosting the Milo IDE and the associated backend for managing interactions to the Milo Server from the IDE.
 
 #### [Milo Blocks](https://github.com/miloide/milo-blocks)
 
