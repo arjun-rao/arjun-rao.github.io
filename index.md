@@ -1,7 +1,6 @@
 # About Me
 
-I am currently working at [Stride.ai](https://stride.ai) as an NLP Engineer. I work on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. along
-with building end to end web applications supporting these ML solutions providing rich visualizations and tools for providing feedback on model predictions. 
+I am currently working at [Stride.ai](https://stride.ai) as an NLP Engineer. I work on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. Additionally I work on building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions. 
 
 I have recently graduated from the Bachelor of Engineering Program in Information Science and Engineering from [Ramaiah Institute of Technology](http://msrit.edu/).
 
