@@ -9,11 +9,6 @@ My research interests include Natural Language Processing, Computational Linguis
 * [LinkedIn](https://www.linkedin.com/in/arjunra0/)
 * [Google Scholar](https://scholar.google.co.in/citations?user=pm-WRX0AAAAJ&hl=en)
 
-# Talks
----
-
-You can find slides and code from various talks I've given [here](https://github.com/arjun-rao/talks).
-
 # Projects
 ---
 ## [The Milo Project](https://miloide.github.io/)
@@ -69,4 +64,10 @@ Github Issue Tracker is a web application hosted on Google Cloud Platform that p
 	* Published by CRC Press Taylor & Francis Group.  (March 2017)
 	* Co Authors: Dr. Mydhili K Nair, Nihal Nayak
 
+
+
+# Talks
+---
+
+You can find slides and code from various talks I've given [here](https://github.com/arjun-rao/talks).
 
