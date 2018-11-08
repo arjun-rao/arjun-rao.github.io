@@ -1,6 +1,6 @@
 # About Me
 
-I am currently working at [Stride.ai](https://stride.ai) as an NLP Engineer. I work on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. Additionally I work on building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions. 
+I am currently working at [Stride.ai](https://stride.ai) as an NLP Engineer. I work on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. Additionally I work on building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions.
 
 I have recently graduated from the Bachelor of Engineering Program in Information Science and Engineering from [Ramaiah Institute of Technology](http://msrit.edu/).
 
@@ -34,12 +34,16 @@ Github Issue Tracker is a web application hosted on Google Cloud Platform that p
 ## Papers
 
 ### 2018
-* **Arjun R. Rao**, Ayush Bihani and Mydhili Nair. "Milo: A visual programming environment for Data Science Education"[pdf](https://arjun.fyi/files/milo_vlhcc18_paper.pdf)
-	* Proceedings of 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'18), October 1 - 4, 2018, Lisbon, Portugal. pp. 211-215. (To appear)
-* Nihal V. Nayak and **Arjun R. Rao**. "Context based approach for second language acquisition." [pdf](http://www.aclweb.org/anthology/W18-0524)
+* **Arjun R. Rao**, Ayush Bihani and Mydhili Nair. "Milo: A visual programming environment for Data Science Education" [[pdf]](https://arjun.fyi/files/milo_vlhcc18_paper.pdf)
+	* Proceedings of 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'18), October 1 - 4, 2018, Lisbon, Portugal. pp. 211-215. [[Proceedings]](https://ieeexplore.ieee.org/document/8506504) [[BibTex]](https://arjun.fyi/files/milo_vlhcc18_paper.bib)
+* Nihal V. Nayak and **Arjun R. Rao**. "Context based approach for second language acquisition" [[pdf]](http://www.aclweb.org/anthology/W18-0524)
 	* In Proceedings of the NAACL-HLT Workshop on Innovative Use of NLP for Building Educational Applications (BEA), New Orleans, USA.
-	* System paper for Duolingo's Shared Task at the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications, (BEA18, NAACL 2018)
-	* [BibTex](http://www.aclweb.org/anthology/W18-0524.bib)
+	* Trained logistic regression model to predict the likelihood of a student making a mistake while answering an exercise on Duolingo.
+	  Made use of features inspired by research in code-mixed language learning where context plays an important role.
+	* Result:
+		* AUROC scores for English/Spanish = 0.821, Spanish/English = 0.790 and French/English = 0.812.
+		* 2nd best linear model, finished 9th overall in SLAM 2018
+	* [[BibTex]](http://www.aclweb.org/anthology/W18-0524.bib)
 
 
 ## Book Chapters
