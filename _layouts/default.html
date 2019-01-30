@@ -13,10 +13,23 @@
     {% include analytics.html %}
     {% endif %}
     <title>Arjun Rao's homepage</title>
+    <style>
+      .profileImage{
+        border-radius: 50%;
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
+        <img class="profileImage"
+          src="/files/photo.jpg"
+          alt="Arjun Rao">
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>NLP Engineer at <a href="https://stride.ai" targe="_blank">Stride.ai</a></p>
 
@@ -25,7 +38,7 @@
           <p class="view"><a href="#projects">Projects</a></p>
           <p class="view"><a href="#publications">Publications</a></p>
           <p class="view"><a href="#talks">Talks</a></p>
-          <p class="view"><a target="_blank" href="https://arjun.fyi/files/arjun_cv.pdf">CV (Last updated October 2018)</a></p>              
+          <p class="view"><a target="_blank" href="https://arjun.fyi/files/arjun_cv.pdf">CV (Last updated October 2018)</a></p>
         {% endif %}
 
       </header>
