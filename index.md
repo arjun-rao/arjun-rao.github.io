@@ -1,8 +1,10 @@
 # About Me
 
-I am currently working at [Stride.ai](https://stride.ai) as an NLP Engineer. I work on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. Additionally I work on building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions.
+I will be joining [University of Colorado, Boulder](https://colorado.edu) to pursue a Master's degree in Computer Science, in Fall 2019.
 
-I have recently graduated from the Bachelor of Engineering Program in Information Science and Engineering from [Ramaiah Institute of Technology](http://msrit.edu/).
+I was previously working at [Stride.ai](https://stride.ai) as an NLP Engineer, where I worked on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. as well as building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions.
+
+I received my Bachelor of Engineering Degree in Information Science and Engineering from [Ramaiah Institute of Technology](http://msrit.edu/) (2014-2018).
 
 My research interests include Natural Language Processing, Computational Linguistics, Human Computer Interaction, Computer Science Pedagogy.
 
