@@ -1,6 +1,6 @@
 # About Me
 
-I will be joining [University of Colorado, Boulder](https://colorado.edu) to pursue a Master's degree in Computer Science, in Fall 2019.
+I am currently pursuing a Master's degree in Computer Science at [University of Colorado, Boulder](https://colorado.edu).
 
 I was previously working at [Stride.ai](https://stride.ai) as an NLP Engineer, where I worked on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. as well as building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions.
 
