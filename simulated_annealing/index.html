@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Simulated Annealing TSP solver</title>
+</head>
+
+<body onload="start()">
+
+
+
+	<canvas id="canvas1" width="640" height="480" style="border:1px solid #c3c3c3;">
+		Your browser doesn't appear to support the HTML5 <code>&lt;canvas&gt;</code> element.
+	</canvas>
+	<br>
+
+
+	<table border='0'>
+		<tr>
+			<td><button id="startBtn" onclick="simulateAnneal()">Start</button></td>
+			<td><button onclick="repick()">Select new cities</button></td>
+			<td><button onclick="resimulate()">Rerun simulation (same cities)</button></td>
+			<td><button onclick="displayFinalSolution()">Go to best solution so far</button></td>
+		</tr>
+		<tr>
+			<td>Number of cities:</td>
+			<td><input id="citiesBox" type="text" /></td>
+		</tr>
+		<tr>
+			<td>start temp:</td>
+			<td><input id="tempBox" type="text" /></td>
+		</tr>
+		<tr>
+			<td>cooling schedule:</td>
+			<td><select id="dropDown" onchange="">
+				<option>Linear</option>
+				<option>Quadratic</option>
+				<option>Exponential</option>
+			</select></td>
+		</tr>
+		<tr>
+			<td>temp:</td>
+			<td id="p1"></td>
+		</tr>
+		<tr>
+			<td>energy:</td>
+			<td id="p2"></td>
+		</tr>
+		<tr>
+			<td>best energy:</td>
+			<td id="p3"></td>
+
+			<td>Duration:</td>
+			<td id="p4"></td>
+
+		</tr>
+	</table>
+
+	<div id="graphDiv"></div>
+
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	<script src="simulated_anneal.js"></script>
+
+</body>
+
+</html>
