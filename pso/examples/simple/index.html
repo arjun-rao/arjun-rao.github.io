@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="../lib/slider/slider.css">
+	<link rel="stylesheet" href="simple.css">
+	<title>Simple - pso.js demo</title>
+</head>
+<body>
+	
+	<div class="app">		
+		<div>			
+			<b> Instructions </b><br>
+			<p> Carry out the following experiments and answer the questions on the Google form. Be sure to refresh the page before carrying out each of these experiments to reset the results from the previous experiment.</p>
+			<ol>
+				<li>Set function to optimze to be Rastrigin, and run the simulation 5 times.</li>
+				<li>Set function to optimze to be Rastrigin, social influence to 0 and run the simulation 5 times by clicking optimize to start each run. Wait for a value to be added to the list under best for each run before clicking optimize to start the next run.</li>
+				<li>Set function to optimze to be Rastrigin, personal influence to 0 and run the simulation 5 times by clicking optimize to start each run. Wait for a value to be added to the list under best for each run before clicking optimize to start the next run.</li>
+			</ol>
+			<ul>
+				<li>The blue line indicates the global best solution.</li>
+				<li>The red lines indicate positions of particles.</li>
+			</ul>
+		</div>
+		<canvas id="canvaspso" width="600" height="200"></canvas>
+		<table>
+			<tr>
+				<td>
+					Controls
+				</td>
+				<td>
+					<button id="but_start">Optimize</button>
+					<button id="but_stop">Stop</button>					
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Function to optimize
+				</td>
+				<td>
+					<select id="lst_func">
+						<option>Rastrigin (x in [-5.12,5.12])</option>
+						<option>Easom (x in [-30,30])</option>
+						<option>exp(-(x-5)^2)*20 + cos(x*10) (x in [-10,10])</option>
+						<option>x^2 (x in [-5,5])</option>
+					</select>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Best so far
+				</td>
+				<td>
+					<input id="out_best" type="text" value="" readonly="readonly">
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<hr/>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Number of iterations
+				</td>
+				<td>
+					<slider id="slider_niter"></slider>
+					<input
+						id="inp_niter"
+						type="number"
+						min="1"
+						max="150"
+						value="50"
+						step="1"
+					>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Population
+				</td>
+				<td>
+					<slider id="slider_popinit"></slider>
+					<input
+						id="inp_popinit"
+						type="number"
+						min="2"
+						max="50"
+						value="10"
+						step="1"
+					>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Inertia weight
+				</td>
+				<td>
+					<slider id="slider_inertia"></slider>
+					<input
+						id="inp_inertia"
+						type="number"
+						min="0"
+						max="1.2"
+						value="0.6"
+						step="0.01"
+					>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Social influence
+				</td>
+				<td>
+					<slider id="slider_social"></slider>
+					<input
+						id="inp_social"
+						type="number"
+						min="0"
+						max="1.2"
+						value="0.7"
+						step="0.01"
+					>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Personal influence
+				</td>
+				<td>
+					<slider id="slider_personal"></slider>
+					<input
+						id="inp_personal"
+						min="0"
+						max="1.2"
+						type="number"
+						value="0.3"
+						step="0.01"
+					>
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<hr/>
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<b>Avg. of Best Solution across runs: </b>
+					<span class="desc" id="runs_avg">
+						
+					</span><br>
+					<b> Best for each run: </b>
+					<ol id="run_outputs">						
+					</ol>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<script src="../lib/slider/slider.js"></script>
+
+	<script src="../../src/pso.js"></script>
+	<script src="simple.js"></script>
+</body>
+</html>
