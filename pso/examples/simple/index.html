@@ -9,13 +9,10 @@
 	
 	<div class="app">		
 		<div>			
-			<b> Instructions </b><br>
-			<p> Carry out the following experiments and answer the questions on the Google form. Be sure to refresh the page before carrying out each of these experiments to reset the results from the previous experiment.</p>
-			<ol>
-				<li>Set function to optimize to be Rastrigin, and run the simulation 5 times.</li>
-				<li>Set function to optimize to be Rastrigin, social influence to 0 and run the simulation 5 times by clicking optimize to start each run. Wait for a value to be added to the list under best for each run before clicking optimize to start the next run.</li>
-				<li>Set function to optimize to be Rastrigin, personal influence to 0 and run the simulation 5 times by clicking optimize to start each run. Wait for a value to be added to the list under best for each run before clicking optimize to start the next run.</li>
-			</ol>
+			<b> Particle Swarm Optimization (PSO) Simulation </b><br>
+			<p> Follow the instructions on the Google Form to conduct
+			    your experiments. Be sure to refresh the page to clear the table, when choosing a new Function or starting a new experiment.<br>			    
+			</p>			
 			<b>Note regarding visualization:</b><br>
 			<ul>
 				<li>The blue line indicates the global best solution.</li>
@@ -50,7 +47,7 @@
 
 			<tr>
 				<td>
-					Best so far
+					Best solution:
 				</td>
 				<td>
 					<input id="out_best" type="text" value="" readonly="readonly">
@@ -156,13 +153,13 @@
 
 			<tr>
 				<td colspan="2">
+					<b> Best Solution for each run: </b>
+					<ol id="run_outputs">						
+					</ol>
 					<b>Avg. of Best Solution across runs: </b>
 					<span class="desc" id="runs_avg">
 						
-					</span><br>
-					<b> Best for each run: </b>
-					<ol id="run_outputs">						
-					</ol>
+					</span>
 				</td>
 			</tr>
 		</table>
