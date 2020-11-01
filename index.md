@@ -1,12 +1,13 @@
 # About Me
 
-I am currently pursuing a Master's degree in Computer Science at the [University of Colorado, Boulder](https://colorado.edu) and a graduate student staff for the Intro to AI course.
+I am currently pursuing a Master's degree in Computer Science at the [University of Colorado, Boulder](https://colorado.edu) and a teaching assistant for CSCI 1300: Starting Computing.
 
-I was previously working at [Stride.ai](https://stride.ai) as an NLP Engineer, where I worked on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. as well as building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions.
+
+My research interests include Natural Language Processing, Applied Machine Learning and Human Computer Interaction.
+
+I have one year of full time work experience at [Stride.ai](https://stride.ai) as an NLP Engineer, where I worked on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. as well as building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions. I have also interned at Microsoft (Redmond), and Google (San Francisco). 
 
 I received my Bachelor of Engineering Degree in Information Science and Engineering from [Ramaiah Institute of Technology](http://msrit.edu/) (2014-2018).
-
-My research interests include Natural Language Processing, Computational Linguistics, Human Computer Interaction, Computer Science Pedagogy.
 
 # Find me on
 * [Github](https://github.com/arjun-rao)
