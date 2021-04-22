@@ -1,6 +1,6 @@
 # About Me
 
-I am currently pursuing a Master's degree in Computer Science at the [University of Colorado, Boulder](https://colorado.edu) and a teaching assistant for CSCI 1300: Starting Computing.
+I am currently pursuing a Master's degree in Computer Science at the [University of Colorado, Boulder](https://colorado.edu) and a teaching assistant for CSCI 1300: Starting Computing. I work with Dr.Sidney D'Mello at the [Emotive Computing Lab](https://sites.google.com/site/sidneydmello/emotive-computing-lab) on modelling Collaborative Problem Solving discourse through Natural Language Processing and Machine Learning techniques.
 
 
 My research interests include Natural Language Processing, Applied Machine Learning and Human Computer Interaction.
