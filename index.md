@@ -1,6 +1,8 @@
 # About Me
 
-Currently working at Netflix on Recommendation Systems and Algorithms as part of the Algorithms Engineering team. I previously worked at Microsoft as a on the Ranking Infrastructure Team at Microsoft Start where I contributed to and built various infrastructure components that power the ranking stack for personalized content feed recommendation.
+Currently working at Netflix on Recommendation Systems and Algorithms as part of the Algorithms Engineering team. 
+
+I previously worked at Microsoft as a on the Ranking Infrastructure Team for Microsoft Start (start.com) where I contributed to and built various infrastructure components that power the ranking stack for personalized content feed recommendations.
 
 I have a Master's degree in Computer Science from the [University of Colorado, Boulder](https://colorado.edu). During my masters I worked with Dr.Sidney D'Mello at the [Emotive Computing Lab](https://sites.google.com/site/sidneydmello/emotive-computing-lab) on modelling Collaborative Problem Solving discourse through Natural Language Processing and Machine Learning techniques from Jan 2020 - May 2021.
 
