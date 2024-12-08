@@ -1,6 +1,6 @@
 # About Me
 
-Software Engineer at Netflix on working on the Recommendation Systems team, my work sits at the intersection of Applied Research and ML Engineering to enable the next generation of AI models and algorithms that power title ranking and page construction on Netflix.
+Software Engineer at Netflix on working on the Recommendation Systems team, my work sits at the intersection of Applied Research and ML Engineering to enable the next generation of AI models and algorithms that power ranking and page construction on Netflix.
 
 I previously worked at Microsoft as a Software Engineer on the Ranking Infrastructure Team for Microsoft Start (msn.com) where I was a tech lead and contributor to various ranking infrastructure components that power personalized content recommendation for millions of Windows and Microsoft Edge users.
 
