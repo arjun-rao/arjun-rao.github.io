@@ -1,13 +1,12 @@
 # About Me
 
-Currently working at Netflix on Recommendation Systems and Algorithms as part of the Algorithms Engineering team. 
+Software Engineer at Netflix on working on the Recommendation Systems team, my work sits at the intersection of Applied Research and ML Engineering to enable the next generation of AI models and algorithms that power title ranking and page construction on Netflix.
 
-I previously worked at Microsoft as a on the Ranking Infrastructure Team for Microsoft Start (start.com) where I contributed to and built various infrastructure components that power the ranking stack for personalized content feed recommendations.
+I previously worked at Microsoft as a Software Engineer on the Ranking Infrastructure Team for Microsoft Start (msn.com) where I was a tech lead and contributor to various ranking infrastructure components that power personalized content recommendation for millions of Windows and Microsoft Edge users.
 
-I have a Master's degree in Computer Science from the [University of Colorado, Boulder](https://colorado.edu). During my masters I worked with Dr.Sidney D'Mello at the [Emotive Computing Lab](https://sites.google.com/site/sidneydmello/emotive-computing-lab) on modelling Collaborative Problem Solving discourse through Natural Language Processing and Machine Learning techniques from Jan 2020 - May 2021.
+I have a Master’s degree in Computer Science from the University of Colorado, Boulder. During my masters I worked with Dr.Sidney D’Mello at the Emotive Computing Lab on modelling Collaborative Problem Solving discourse through Natural Language Processing and Machine Learning techniques.
 
-
-My research interests include Recommendation Systems, Information Retrieval, Search, Content Understanding, Applied Machine Learning, Natural Language Processing and Human Computer Interaction.
+My research interests include Recommendation Systems, Information Retrieval, Search, Content Understanding, Gen AI, LLMs, Machine Learning Infrastructure and Distributed Systems.
 
 I've also previously worked at [Stride.ai](https://stride.ai) as an NLP Engineer where I worked on building machine learning models for tasks like Document Classification, Document Clustering, Information Extraction, etc. as well as building end to end web applications supporting these ML solutions, that include interactive visualizations and tools for providing feedback on model predictions and have interned at Microsoft (Redmond), and Google (San Francisco).
 
